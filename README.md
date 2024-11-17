@@ -1,1 +1,1 @@
-# Pelatihan-Git
+Buat latihan pake vcs git
